@@ -1,10 +1,9 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: dejavu sans mono, monospace;
+  padding: 0;
+  background-image: linear-gradient(to right, rgb(20, 188, 254) , rgb(255, 30, 214));
+  /* Link for background color: https://www.w3schools.com/css/css3_gradients.asp */
 }
 
 code {
