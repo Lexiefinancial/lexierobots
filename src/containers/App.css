@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Toys R Us Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Toys R Us Regular'), url('toys_r_us.woff') format('woff');
+    }
+
+    h1 {
+        font-family:'Toys R Us Regular';
+        color: rgb(158, 253, 255);
+    }
